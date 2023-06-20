@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+   
+}
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    width: 90vw;
+    margin: 10px;
+}
+.box{
+    display: flex;
+   gap: 50px;
+}
+.icon{
+    color: rgb(223, 223, 92);
+    font-size: 40px;
+}
